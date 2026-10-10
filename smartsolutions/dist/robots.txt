@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mg-teck.muddysiren16.chatgpt.site/sitemap.xml
